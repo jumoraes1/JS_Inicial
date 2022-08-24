@@ -10,7 +10,7 @@ Seria isso um programa? Descubra visitando o Alura <a href="http://www.alura.com
 
 	alert ("Isso sim é um programa");
 
-	document.write("<br>A média do valor gasto com as viagens é<br>") ;
-    document.write( (200 + 100 + 300 + 400) / 4);
+	document.write("<br>A média do valor gasto com as viagens é<br>");
+	document.write( (200 + 100 + 300 + 400) / 4);
 
 </script>
